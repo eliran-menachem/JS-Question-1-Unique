@@ -1,3 +1,5 @@
+JS-Question-1-Unique
+
 write a function that will take a sorted array of numbers and will return 
 a new array containing only those numbers that are unique (appear only once in the input array)
 (Without using any JS method)
